@@ -1,5 +1,5 @@
 # titulo
-lorem ipsum...
+Nueva actualizacion del reposotorio se ha agregado una descripcion
 
 ## Subtitulo 1
 - item 1
